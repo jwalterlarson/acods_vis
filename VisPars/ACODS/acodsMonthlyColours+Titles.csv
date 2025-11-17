@@ -1,0 +1,26 @@
+biomass,0,22000,"\ClrTablePath\biomass.clr","NA","Total Biomass (aboveground+roots)","[tC/ha]",0.01
+cpool,0,90000,"\ClrTablePath\cpool.clr","NA","Total Carbon (biomass+soil+litter)","[tC/ha]",0.01
+dwcoldt,-0.004,0.02,"\ClrTablePath\dwcoldt.clr","NA","Soil Moisture Change (total column)","[mm/d]",1000
+fcnep,-3,3,"\ClrTablePath\fcnep.clr","NA","Net Ecosystem Production","[gC/m$^2$/d]",1
+fcnpp,0,5,"\ClrTablePath\fcnpp.clr","NA","Net Primary Production","[gC/m$^2$/d]",1
+fwe,0,0.006,"\ClrTablePath\fwe.clr","NA","Total Evapotranspiration (Soil+Vegetation)","[mm/d]",1000
+fwprec,0,0.01,"\ClrTablePath\fwprec.clr","NA","Precipitation","[mm/d]",1000
+lai_g,0,1,"\ClrTablePath\lai_g.clr","NA","Leaf Area Index (recurrent)","[-]",1
+lai_w,0,2.5,"\ClrTablePath\lai_w.clr","NA","Leaf Area Index (persistent)","[-]",1
+sbar_g,0,1,"\ClrTablePath\sbar_g.clr","NA","Relative Soil Moisture (0-15cm) [0-1]","[Fraction (0-1)]",1
+sbar_w,0,1,"\ClrTablePath\sbar_w.clr","NA","Relative Soil Moisture (0-90cm) [0-1]","[Fraction (0-1)]",1
+solarmj,5,30,"\ClrTablePath\solarmj.clr","NA","Incoming Solar Irradiance","[MJ/m$^2$/d]",1
+tabar,0,36,"\ClrTablePath\tabar.clr","NA","Mean Air Temperature","[$^\circ$C]",1
+pcr_biomass,0,100,"\ClrTablePath\pcr_biomass.clr","NA","Percent Rank Total Biomass (aboveground+roots)","[%]",1
+pcr_cpool,0,100,"\ClrTablePath\pcr_cpool.clr","NA","Percent Rank Total Carbon (biomass+soil+litter)","[%]",1
+pcr_dwcoldt,0,100,"\ClrTablePath\pcr_dwcoldt.clr","NA","Percent Rank Soil Moisture Change (total column)","[%]",1
+pcr_fcnep,0,100,"\ClrTablePath\pcr_fcnep.clr","NA","Percent Rank Net Ecosystem Production","[%]",1
+pcr_fcnpp,0,100,"\ClrTablePath\pcr_fcnpp.clr","NA","Percent Rank Net Primary Production","[%]",1
+pcr_fwe,0,100,"\ClrTablePath\pcr_fwe.clr","NA","Percent Rank Total Evapotranspiration (Soil+Vegetation)","[%]",1
+pcr_fwprec,0,100,"\ClrTablePath\pcr_fwprec.clr","NA","Percent Rank Precipitation","[%]",1
+pcr_lai_g,0,100,"\ClrTablePath\pcr_lai_g.clr","NA","Percent Rank Leaf Area Index (recurrent)","[%]",1
+pcr_lai_w,0,100,"\ClrTablePath\pcr_lai_w.clr","NA","Percent Rank Leaf Area Index (persistent)","[%]",1
+pcr_sbar_g,0,100,"\ClrTablePath\pcr_sbar_g.clr","NA","Percent Rank Relative Soil Moisture (0-15cm) [0-1]","[%]",1
+pcr_sbar_w,0,100,"\ClrTablePath\pcr_sbar_w.clr","NA","Percent Rank Relative Soil Moisture (0-90cm) [0-1]","[%]",1
+pcr_solarmj,0,100,"\ClrTablePath\pcr_solarmj.clr","NA","Percent Rank Incoming Solar Irradiance","[%]",1
+pcr_tabar,0,100,"\ClrTablePath\pcr_tabar.clr","NA","Percent Rank Mean Air Temperature","[%]",1
